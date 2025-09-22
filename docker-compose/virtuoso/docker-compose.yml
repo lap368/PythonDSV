@@ -1,0 +1,25 @@
+services:
+  virtuoso:
+    image: openlink/virtuoso-opensource-7:7.2.11
+    container_name: dsv-virtuoso
+    environment:
+      # Default credentials - change for production
+      DBA_PASSWORD: dba
+      SPARQL_UPDATE: "true"
+      DEFAULT_GRAPH: "http://localhost:8890/DAV"
+    ports:
+      - "1111:1111"   # SQL port
+      - "8890:8890"   # HTTP port (SPARQL endpoint)
+    volumes:
+      - ../../data/virtuoso/database:/database
+      - ../../data/virtuoso/dumps:/dumps
+      - ../../data/virtuoso/logs:/var/log/virtuoso
+      - ../../data/ttl:/ttl
+      - ./virtuoso-dev.ini:/database/virtuoso.ini
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8890/sparql"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s

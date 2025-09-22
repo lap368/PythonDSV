@@ -1,0 +1,152 @@
+
+		Wed Sep 03 2025
+14:27:05 OpenLink Virtuoso Universal Server
+14:27:05 Version 07.20.3238-pthreads for Linux as of Sep 26 2023 (d89671fa1)
+14:27:05 uses OpenSSL 1.1.1  11 Sep 2018
+14:27:05 uses parts of PCRE, Html Tidy
+14:27:05 SQL Optimizer enabled (max 1000 layouts)
+14:27:05 Compiler unit is timed at 0.000197 msec
+14:27:06 Checkpoint started
+14:27:06 Checkpoint finished.
+14:27:06 Roll forward started
+14:27:06 Roll forward complete
+14:27:06 PL LOG: Can't get list of vad packages in /usr/share/virtuoso-opensource-7/vad/
+14:27:06 Checkpoint started
+14:27:06 Checkpoint finished, log reused
+14:27:08 HTTP/WebDAV server online at 8890
+14:27:08 Server online at 1111 (pid 1)
+14:37:57 Server received signal 2
+14:37:57 Initiating normal shutdown
+14:37:57 Checkpoint started
+14:37:57 Checkpoint finished, log reused
+14:37:57 Server shutdown complete
+
+		Wed Sep 03 2025
+14:38:05 OpenLink Virtuoso Universal Server
+14:38:05 Version 07.20.3238-pthreads for Linux as of Sep 26 2023 (d89671fa1)
+14:38:05 uses OpenSSL 1.1.1  11 Sep 2018
+14:38:05 uses parts of PCRE, Html Tidy
+14:38:05 Database version 3126
+14:38:05 SQL Optimizer enabled (max 1000 layouts)
+14:38:06 Compiler unit is timed at 0.000076 msec
+14:38:07 Roll forward started
+14:38:07 Roll forward complete
+14:38:07 PL LOG: Can't get list of vad packages in /usr/share/virtuoso-opensource-7/vad/
+14:38:07 Checkpoint started
+14:38:07 Checkpoint finished, log reused
+14:38:09 HTTP/WebDAV server online at 8890
+14:38:09 Server online at 1111 (pid 1)
+
+		Wed Sep 03 2025
+14:41:31 OpenLink Virtuoso Universal Server
+14:41:31 Version 07.20.3238-pthreads for Linux as of Sep 26 2023 (d89671fa1)
+14:41:31 uses OpenSSL 1.1.1  11 Sep 2018
+14:41:31 uses parts of PCRE, Html Tidy
+14:41:31 Database version 3126
+14:41:31 SQL Optimizer enabled (max 1000 layouts)
+14:41:32 Compiler unit is timed at 0.000074 msec
+14:41:32 Roll forward started
+14:41:32     3 transactions, 185 bytes replayed (100 %)
+14:41:32 Roll forward complete
+14:41:32 PL LOG: Can't get list of vad packages in /usr/share/virtuoso-opensource-7/vad/
+14:41:32 Checkpoint started
+14:41:32 Checkpoint finished, log reused
+14:41:34 HTTP/WebDAV server online at 8890
+14:41:34 Server online at 1111 (pid 1)
+14:51:36 PL LOG: DB.DBA.DAV_QUEUE_RUN exit handler:
+ FA055: Could not open virtuoso.ini 
+14:52:40 Server received signal 2
+14:52:40 Initiating normal shutdown
+14:52:40 Checkpoint started
+14:52:40 Checkpoint finished, log reused
+14:52:40 Server shutdown complete
+
+		Wed Sep 03 2025
+14:52:49 OpenLink Virtuoso Universal Server
+14:52:49 Version 07.20.3238-pthreads for Linux as of Sep 26 2023 (d89671fa1)
+14:52:49 uses OpenSSL 1.1.1  11 Sep 2018
+14:52:49 uses parts of PCRE, Html Tidy
+14:52:49 Database version 3126
+14:52:49 SQL Optimizer enabled (max 1000 layouts)
+14:52:50 Compiler unit is timed at 0.000075 msec
+14:52:50 Roll forward started
+14:52:50 Roll forward complete
+14:52:50 PL LOG: Can't get list of vad packages in /usr/share/virtuoso-opensource-7/vad/
+14:52:50 Checkpoint started
+14:52:50 Checkpoint finished, log reused
+14:52:50 HTTP/WebDAV server online at 8890
+14:52:50 Server online at 1111 (pid 1)
+15:14:28 Server received signal 2
+15:14:28 Initiating normal shutdown
+15:14:29 Checkpoint started
+15:14:29 Checkpoint finished, log reused
+15:14:29 Server shutdown complete
+
+		Wed Sep 03 2025
+15:14:47 OpenLink Virtuoso Universal Server
+15:14:47 Version 07.20.3238-pthreads for Linux as of Sep 26 2023 (d89671fa1)
+15:14:47 uses OpenSSL 1.1.1  11 Sep 2018
+15:14:47 uses parts of PCRE, Html Tidy
+15:14:47 Database version 3126
+15:14:47 SQL Optimizer enabled (max 1000 layouts)
+15:14:48 Compiler unit is timed at 0.000079 msec
+15:14:48 Roll forward started
+15:14:48 Roll forward complete
+15:14:48 PL LOG: Can't get list of vad packages in /usr/share/virtuoso-opensource-7/vad/
+15:14:48 Checkpoint started
+15:14:49 Checkpoint finished, log reused
+15:14:49 HTTP/WebDAV server online at 8890
+15:14:49 Server online at 1111 (pid 1)
+16:14:50 Checkpoint started
+16:14:50 Checkpoint finished, log reused
+17:14:52 Checkpoint started
+17:14:52 Checkpoint finished, log reused
+18:14:53 Checkpoint started
+18:14:53 Checkpoint finished, log reused
+20:22:21 Checkpoint started
+20:22:21 Checkpoint finished, log reused
+21:28:06 Checkpoint started
+21:28:06 Checkpoint finished, log reused
+22:28:07 Checkpoint started
+22:28:07 Checkpoint finished, log reused
+
+		Thu Sep 04 2025
+03:33:01 Checkpoint started
+03:33:01 Checkpoint finished, log reused
+04:33:02 Checkpoint started
+04:33:02 Checkpoint finished, log reused
+08:35:50 Checkpoint started
+08:35:50 Checkpoint finished, log reused
+11:43:24 Checkpoint started
+11:43:24 Checkpoint finished, log reused
+12:43:25 Checkpoint started
+12:43:25 Checkpoint finished, log reused
+14:12:21 Checkpoint started
+14:12:21 Checkpoint finished, log reused
+15:12:23 Checkpoint started
+15:12:23 Checkpoint finished, log reused
+16:12:24 Checkpoint started
+16:12:24 Checkpoint finished, log reused
+17:12:25 Checkpoint started
+17:12:25 Checkpoint finished, log reused
+18:12:26 Checkpoint started
+18:12:26 Checkpoint finished, log reused
+19:12:52 Checkpoint started
+19:12:52 Checkpoint finished, log reused
+20:12:54 Checkpoint started
+20:12:54 Checkpoint finished, log reused
+22:53:07 Checkpoint started
+22:53:07 Checkpoint finished, log reused
+
+		Fri Sep 05 2025
+00:15:11 Checkpoint started
+00:15:11 Checkpoint finished, log reused
+01:42:35 Checkpoint started
+01:42:35 Checkpoint finished, log reused
+02:44:03 Checkpoint started
+02:44:03 Checkpoint finished, log reused
+03:00:35 Server received signal 2
+03:00:35 Initiating normal shutdown
+03:00:35 Checkpoint started
+03:00:35 Checkpoint finished, log reused
+03:00:35 Server shutdown complete
