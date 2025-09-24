@@ -1,0 +1,72 @@
+site_name: DSV Documentation
+site_description: Documentation for the DSV RDF Website System
+docs_dir: docs
+site_dir: site
+
+nav:
+  - Home: index.md
+  - Concepts: concepts/concepts-index.md
+  - Implementation: implementation/implementation-index.md
+  - Issues: issues/issues-index.md
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.integrate
+    - navigation.top
+    - search.highlight
+    - search.share
+    - header.autohide
+
+plugins:
+  - search:
+      lang: en
+  - roamlinks:
+      base_url: '/'
+      # Convert [[Page Name]] to proper links
+      # Convert [[folder/page|Display Text]] to proper links
+      # This should handle most Obsidian linking patterns
+  - git-revision-date-localized:
+      type: date
+      enable_creation_date: true
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername/your-dsv-project
