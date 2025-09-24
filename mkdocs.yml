@@ -1,13 +1,14 @@
 site_name: DSV Documentation
 site_description: Documentation for the DSV RDF Website System
+site_url: https://lap368.github.io/PythonDSV/
 docs_dir: docs
 site_dir: site
 
 nav:
   - Home: index.md
-  - Concepts: concepts/concepts-index.md
-  - Implementation: implementation/implementation-index.md
-  - Issues: issues/issues-index.md
+  - Concepts: concepts/index.md
+  - Implementation: implementation/index.md
+  - Issues: issues/index.md
 
 theme:
   name: material
@@ -44,10 +45,8 @@ plugins:
   - search:
       lang: en
   - roamlinks:
-      base_url: '/'
-      # Convert [[Page Name]] to proper links
-      # Convert [[folder/page|Display Text]] to proper links
-      # This should handle most Obsidian linking patterns
+      base_url: '/PythonDSV/'
+      # This tells roamlinks to prepend /PythonDSV/ to all converted links
   - git-revision-date-localized:
       type: date
       enable_creation_date: true
