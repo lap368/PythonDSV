@@ -4,9 +4,9 @@ Welcome to the documentation for the DSV (Dynamic Semantic Visualizer) system - 
 
 ## Navigation
 
-- [[/concepts/concepts-index.md|Concepts]] - Core RDF and semantic web concepts
-- [[/implementation/concepts-index.md|Implementation]] - Technical documentation  
-- [[/issues/concepts-index.md|Issues]] - Current issues and feature requests
+- [[concepts/index|Concepts]] - Core RDF and semantic web concepts
+- [[implementation/index|Implementation]] - Technical documentation  
+- [[issues/index|Issues]] - Current issues and feature requests
 
 ## Quick Links
 

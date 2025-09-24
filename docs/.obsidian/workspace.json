@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "issues/concepts-index.md.md",
+                "file": "issues/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "concepts-index.md"
+              "title": "index"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "index"
             }
           },
           {
-            "id": "b01be90cd5982bf0",
+            "id": "997d696b0031e954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "index"
+            }
+          },
+          {
+            "id": "673e49c9cef00e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "3ef7a623ff962810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "9ed43a5723b42d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -153,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md.md",
+                "file": "concepts/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +235,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index.md"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -172,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md.md",
+                "file": "concepts/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index.md"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -201,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md.md",
+                "file": "concepts/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index.md"
+              "title": "Outline of index"
             }
           },
           {
@@ -242,17 +314,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b01be90cd5982bf0",
+  "active": "9ed43a5723b42d94",
   "lastOpenFiles": [
-    "implementation/concepts-index.md.md",
-    "issues/concepts-index.md.md",
-    "index.md.md",
-    "concepts/concepts-index.md.md",
+    "index.md",
+    "concepts/index.md",
+    "issues/index.md",
+    "implementation/concepts-index.md",
+    "implementation/index.md",
+    "templates/concept-template.md",
     "Blah.md",
     "concepts/index.md",
     "001-rdf-parsing-performance.md",
-    "templates/issue-template.md.md",
-    "templates/concept-template.md.md",
+    "templates/issue-template.md",
     "templates"
   ]
 }
