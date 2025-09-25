@@ -63,6 +63,7 @@ venv.bak/
 # IDEs
 .vscode/
 .obsidian/
+workspace.json
 .idea/
 *.swp
 *.swo
@@ -92,3 +93,4 @@ dmypy.json
 *.nt
 # data/
 # rdf-data/
+docs/.obsidian/workspace.json
