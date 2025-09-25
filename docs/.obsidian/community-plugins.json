@@ -2,5 +2,6 @@
   "table-editor-obsidian",
   "templater-obsidian",
   "graph-analysis",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-textgenerator-plugin"
 ]

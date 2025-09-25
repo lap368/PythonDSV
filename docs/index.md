@@ -17,7 +17,7 @@ Welcome to the documentation for the DSV (Dynamic Semantic Visualizer) system - 
 
 This documentation is built with Obsidian and published as a static site. You can:
 
-1. Browse the web version at [project-name.github.io](https://yourusername.github.io/your-dsv-project)
+1. Browse the web version at [lap368.github.io/PythonDSV](https://lap368.github.io/PythonDSV)
 2. Clone the repository and open the `docs/` folder in Obsidian for the full interactive experience
 
 ## Structure

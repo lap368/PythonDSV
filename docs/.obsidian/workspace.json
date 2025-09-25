@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c60de7a71d708096",
+        "id": "1c31c00d7fd51e38",
         "type": "tabs",
         "children": [
           {
-            "id": "1d3ba0f0851d86bd",
+            "id": "544572fb4c404c65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "issues/index.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,131 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "906e2797c05f2538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "997d696b0031e954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "673e49c9cef00e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "3ef7a623ff962810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "9ed43a5723b42d94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "concepts/index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/index.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -244,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concepts/index.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -273,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/index.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -291,14 +170,23 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "2f2de3f9cacf78fd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 473.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,21 +199,43 @@
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9ed43a5723b42d94",
+  "active": "15ab10ef07c4d259",
   "lastOpenFiles": [
+    "textgenerator/templates",
+    "textgenerator",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "index.md",
+    "Untitled.md",
+    "utilities/copilot-system-prompt.md",
+    "templates/issue-template.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "utilities",
     "concepts/index.md",
     "issues/index.md",
     "implementation/concepts-index.md",
     "implementation/index.md",
     "templates/concept-template.md",
     "Blah.md",
-    "concepts/index.md",
     "001-rdf-parsing-performance.md",
-    "templates/issue-template.md",
     "templates"
   ]
 }
