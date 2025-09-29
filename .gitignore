@@ -94,3 +94,7 @@ dmypy.json
 # data/
 # rdf-data/
 docs/.obsidian/workspace.json
+
+# temporary exclusion 
+docs/text_generator_docs
+docs/textgenerator
