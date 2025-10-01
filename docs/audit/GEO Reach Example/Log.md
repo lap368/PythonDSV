@@ -1,0 +1,8 @@
+This document details my process for creating a basic audit for https://www.kkna.kyowakirin.com using the basic process detailed in [the brainstorming doc](Audit Brainstorming#GEO Reach), with the goals of gathering information on specifics needed in the process and solidfying it somewhat.
+
+# 1. [[Audit Brainstorming#1. Identify customer types|Identify customer types]]
+	Specify types of people who we want to be pulled into the site via generative engine answers. For example, for a pharma site we want to get mentioned to patients and doctors alike.
+
+Okay, so to start off let's figure out how we're going to identify the customer types, and what all needs to be identified about them. First thought here is that we're going to want a way to put human input into the system here, so we can suggest specific customer types to the model, and we want the model to potentially come up with more. We need a way to start specifying input to the system so I'm going to start by making a cue of things that need answered, with a way to mark whether they need to be answered by a human or an agent.
+
+Made a Requests directory with an [[audit/GEO Reach Example/Requests/index|index]] which will explain the layout of requests and required metadata. For now we just need one section, asking for the requested piece of information. Created a first request (asking for website url) and the [[Process]] page to detail the order in which events should take place in the audit.

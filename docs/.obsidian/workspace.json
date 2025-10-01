@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c31c00d7fd51e38",
+        "id": "43a22c6c50285323",
         "type": "tabs",
         "children": [
           {
-            "id": "544572fb4c404c65",
+            "id": "edf4b86908e58d12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "audit/Queries/Products/Poteligeo/best-drug/query-1/gpt-4.1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "gpt-4.1"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "textgenerator/templates/utility/utility-post-process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for utility-post-process"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "textgenerator/templates/utility/utility-post-process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from utility-post-process"
             }
           },
           {
@@ -152,23 +152,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "textgenerator/templates/utility/utility-post-process.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of utility-post-process"
             }
           },
           {
             "id": "540167cd2ad8fc54",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -180,13 +180,294 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6289051a260f06d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "cf98ad6c1df84e6f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8a96de2856e9f857",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "84d533a9c4b2cc4e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "dbbf4906b808ac69",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e709f1cfabdc41cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "456e55e008c968e9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ede74730dd4a9462",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f7054aa8fff46be9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "33b8203cb32fe1ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "676819a3a593b797",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "76e2e96658c013cf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "30b98c7caab2bb72",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f52bcfe25d69339d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5dc9f7531f5792a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0b2b2309b228f3d8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e147be8f42129418",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "af6e1f51d7753a4a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c6f098e31e736c0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1909cdadac5dcbe3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5c883ea57249c18d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "cbeef449b0277294",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5bb1abf02b783ab3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9710fb18b8f75ba7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4df9b88af465c985",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "85b67bcb40c3ebf0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2ea44fd455481615",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "39a05a0bdd02d02a",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 33
       }
     ],
     "direction": "horizontal",
-    "width": 473.5
+    "width": 457.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,44 +479,49 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
+      "templater-obsidian:Templater": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "15ab10ef07c4d259",
+  "active": "edf4b86908e58d12",
   "lastOpenFiles": [
-    "textgenerator/templates",
-    "textgenerator",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "index.md",
-    "Untitled.md",
-    "utilities/copilot-system-prompt.md",
-    "templates/issue-template.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "utilities",
-    "concepts/index.md",
-    "issues/index.md",
-    "implementation/concepts-index.md",
-    "implementation/index.md",
-    "templates/concept-template.md",
-    "Blah.md",
-    "001-rdf-parsing-performance.md",
-    "templates"
+    "audit/Reports/AuditReport2025-10-01.md",
+    "audit/Queries/Products/Poteligeo/not-working/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Poteligeo/not-working/query-1/gpt-4.1.md",
+    "audit/Queries/Products/Poteligeo/second-line-treatment/query-2/gemini-2.0-flash.md",
+    "audit/Queries/Products/Crysvita/what-will-i-get/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Crysvita/what-will-i-get/query-2/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Crysvita/what-is/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Crysvita/not-working/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Crysvita/can-i-trust/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Crysvita/alternatives/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Crysvita/best-drug/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Crysvita/best-drug/query-2/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Nourianz/what-will-i-get/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Nourianz/what-is/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Nourianz/not-working/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Nourianz/can-i-trust/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Nourianz/alternatives/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Nourianz/alternatives/query-2/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Nourianz/best-drug/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Poteligeo/what-will-i-get/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Poteligeo/what-will-i-get/query-2/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Poteligeo/second-line-treatment/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Poteligeo/what-is/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Poteligeo/can-i-trust/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Poteligeo/alternatives/query-1/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Poteligeo/alternatives/query-2/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Poteligeo/second-line-treatment/query-2",
+    "audit/Queries/Products/Poteligeo/second-line-treatment/query-1",
+    "audit/Queries/Products/Poteligeo/second-line-treatment",
+    "audit/Queries/Products/Nourianz/second-line-treatment/query-1",
+    "audit/Queries/Products/Nourianz/second-line-treatment",
+    "audit/Queries/Products/Crysvita/second-line-treatment/query-2",
+    "audit/Queries/Products/Crysvita/second-line-treatment/query-1",
+    "audit/Queries/Products/Crysvita/second-line-treatment",
+    "audit/Queries/Products/Poteligeo/best-drug/query-2",
+    "audit/Queries/Products/Poteligeo/best-drug/query-1"
   ]
 }
