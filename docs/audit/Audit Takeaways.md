@@ -15,4 +15,7 @@ Crysvita is your success story. It consistently was brought up as the only way t
 Potelegio is a mixed bag. While it does get brought up in 3 of 4 cases asking about treatment for Mycosis Fungoides, in all of them it is mentioned only very briefly. When asked about second-line treatment options for MF and for Sezary Syndrome, repeatedly we saw mogamulizumab get brought up, without any mention of Potelegio by name, despite Potelegio being the only mogamulizumab available. That corner on the market should let you get the same advantage that being the only treatment for XLH and TIO gave you with Crysvita; we would love to see Potelegio and Kyowa Kirnin get brought up every single time someone asks about second-line treatment for MF and SS.
 
 ### Overall
-Kyowa is positioned very well to become a major player in GEO. You have two products which are each unique in their respective treatments, and the models seem to be "familiar with your work" but aren't yet the fangirls that we'd like them to be. 
+Kyowa is positioned very well to become a major player in GEO. You have two products which are each unique in their respective treatments, and the models seem to be "familiar with your work" but aren't yet the cheerleaders that we'd like them to be. 
+
+# Part 2. Semantic Web
+So, how do we get the AI to vouch for you? 
