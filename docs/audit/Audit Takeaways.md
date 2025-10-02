@@ -1,3 +1,4 @@
+Takeaways from the audit of Kyowa
 # Part 1. AI Messaging
 ## Process
 We created a set of the most pressing questions patients and prescribers want to know about your drugs and the conditions they treat. We then [[AuditReport2025-10-01|asked those questions]]  to two of the most popular AI chat bots in the world, ChatGPT and Claude, and gauged how much of an advocate they were or were not for your product. 
