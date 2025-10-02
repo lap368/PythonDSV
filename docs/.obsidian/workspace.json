@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "audit/Queries/Products/Poteligeo/best-drug/query-1/gpt-4.1.md",
+                "file": "audit/Reports/AuditReport2025-10-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,37 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "gpt-4.1"
+              "title": "AuditReport2025-10-01"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5567bf9c6ba27e53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edcd170eff6017c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "audit/Audit Takeaways.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Audit Takeaways"
             }
           }
         ]
@@ -485,9 +515,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "edf4b86908e58d12",
+  "active": "edcd170eff6017c6",
   "lastOpenFiles": [
     "audit/Reports/AuditReport2025-10-01.md",
+    "audit/Audit Takeaways.md",
+    "audit/Queries/Products/Poteligeo/best-drug/query-2/claude-3-5-haiku-latest.md",
+    "audit/Queries/Products/Poteligeo/second-line-treatment/query-1/gpt-4.1.md",
+    "Summary.md",
+    "audit/Queries/Products/Poteligeo/best-drug/query-1/gpt-4.1.md",
     "audit/Queries/Products/Poteligeo/not-working/query-1/claude-3-5-haiku-latest.md",
     "audit/Queries/Products/Poteligeo/not-working/query-1/gpt-4.1.md",
     "audit/Queries/Products/Poteligeo/second-line-treatment/query-2/gemini-2.0-flash.md",
@@ -508,11 +543,6 @@
     "audit/Queries/Products/Nourianz/best-drug/query-1/claude-3-5-haiku-latest.md",
     "audit/Queries/Products/Poteligeo/what-will-i-get/query-1/claude-3-5-haiku-latest.md",
     "audit/Queries/Products/Poteligeo/what-will-i-get/query-2/claude-3-5-haiku-latest.md",
-    "audit/Queries/Products/Poteligeo/second-line-treatment/query-1/claude-3-5-haiku-latest.md",
-    "audit/Queries/Products/Poteligeo/what-is/query-1/claude-3-5-haiku-latest.md",
-    "audit/Queries/Products/Poteligeo/can-i-trust/query-1/claude-3-5-haiku-latest.md",
-    "audit/Queries/Products/Poteligeo/alternatives/query-1/claude-3-5-haiku-latest.md",
-    "audit/Queries/Products/Poteligeo/alternatives/query-2/claude-3-5-haiku-latest.md",
     "audit/Queries/Products/Poteligeo/second-line-treatment/query-2",
     "audit/Queries/Products/Poteligeo/second-line-treatment/query-1",
     "audit/Queries/Products/Poteligeo/second-line-treatment",

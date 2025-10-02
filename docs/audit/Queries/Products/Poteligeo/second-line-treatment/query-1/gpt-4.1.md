@@ -100,7 +100,7 @@ Status: Pending
 
 > [!evaluation-result]
 > ```evaluation-result-text
-> Targretin,Istodax,Adcetris,Poteligeo
+> Targretin,Istodax,Adcetris
 > ```
 
 ***
@@ -113,7 +113,7 @@ Status: Pending
 
 > [!evaluation-result]
 > ```evaluation-result-text
-> true
+> false
 > ```
 
 ***
@@ -126,7 +126,8 @@ Status: Pending
 
 > [!evaluation-result]
 > ```evaluation-result-text
-> 4
+> null
+
 > ```
 
 ***

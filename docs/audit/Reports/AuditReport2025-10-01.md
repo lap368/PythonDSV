@@ -237,12 +237,12 @@ Generated on: 10/1/2025, 6:17:20 PM
 
 **Evaluation Results:**
 
-| Measure | Result |
-| --- | --- |
-| AI Task: Extract all mentioned treatment names | Targretin,Istodax,Adcetris,Poteligeo |
-| Is Poteligeo mentioned as a second-line option? | true |
-| What position is Poteligeo mentioned in the list of options? | 4 |
-| How strongly is Poteligeo recommended? | 8 |
+| Measure                                                      | Result                               |
+| ------------------------------------------------------------ | ------------------------------------ |
+| AI Task: Extract all mentioned treatment names               | Targretin,Istodax,Adcetris,Poteligeo |
+| Is Poteligeo mentioned as a second-line option?              | true                                 |
+| What position is Poteligeo mentioned in the list of options? | 4                                    |
+| How strongly is Poteligeo recommended?                       | 8                                    |
 
 ## best-drug
 
@@ -455,12 +455,12 @@ Generated on: 10/1/2025, 6:17:20 PM
 
 **Evaluation Results:**
 
-| Measure | Result |
-| --- | --- |
-| AI Task: Extract all mentioned drug names | Valchlor®,Elidel®,Protopic®,Clobex®,Temovate®,Targretin®,Zolinza®,Istodax®,Poteligeo®,Adcetris®,Trexall®,Folotyn®,Intron® A,Roferon®-A |
-| Is Poteligeo mentioned? | false |
-| How many specific drugs are mentioned? | 14 |
-| Out of the drugs mentioned, what position is Poteligeo mentioned in? | N/A |
+| Measure                                                              | Result                                                                                                                                 |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| AI Task: Extract all mentioned drug names                            | Valchlor®,Elidel®,Protopic®,Clobex®,Temovate®,Targretin®,Zolinza®,Istodax®,Poteligeo®,Adcetris®,Trexall®,Folotyn®,Intron® A,Roferon®-A |
+| Is Poteligeo mentioned?                                              | true                                                                                                                                   |
+| How many specific drugs are mentioned?                               | 14                                                                                                                                     |
+| Out of the drugs mentioned, what position is Poteligeo mentioned in? | 9                                                                                                                                      |
 
 ## alternatives
 
@@ -1066,12 +1066,12 @@ Generated on: 10/1/2025, 6:17:20 PM
 
 **Evaluation Results:**
 
-| Measure | Result |
-| --- | --- |
-| AI Task: Extract all mentioned drug names | Inbrija,Apokyn,Kynmobi,Ongentys,Xadago,Gocovri,Comtan,Azilect |
-| Is Nourianz mentioned? | false |
-| How many specific drugs are mentioned? | 8 |
-| Out of the drugs mentioned, what position is Nourianz mentioned in? | N/A |
+| Measure                                                             | Result                                                        |
+| ------------------------------------------------------------------- | ------------------------------------------------------------- |
+| AI Task: Extract all mentioned drug names                           | Inbrija,Apokyn,Kynmobi,Ongentys,Xadago,Gocovri,Comtan,Azilect |
+| Is Nourianz mentioned?                                              | false                                                         |
+| How many specific drugs are mentioned?                              | 8                                                             |
+| Out of the drugs mentioned, what position is Nourianz mentioned in? | N/A                                                           |
 
 ## alternatives
 
@@ -2039,12 +2039,12 @@ Generated on: 10/1/2025, 6:17:20 PM
 
 **Evaluation Results:**
 
-| Measure | Result |
-| --- | --- |
-| AI Task: Extract all mentioned drug names | CRYSVITA,Rocaltrol,Phoslyra,K-Phos |
-| Is Crysvita mentioned? | false |
-| How many specific drugs are mentioned? | 4 |
-| Out of the drugs mentioned, what position is Crysvita mentioned in? | N/A |
+| Measure                                                             | Result                             |
+| ------------------------------------------------------------------- | ---------------------------------- |
+| AI Task: Extract all mentioned drug names                           | CRYSVITA,Rocaltrol,Phoslyra,K-Phos |
+| Is Crysvita mentioned?                                              | true                               |
+| How many specific drugs are mentioned?                              | 4                                  |
+| Out of the drugs mentioned, what position is Crysvita mentioned in? | 1                                  |
 
 ### Response from [[audit/Queries/Products/Crysvita/what-will-i-get/query-1/claude-3-5-haiku-latest.md|claude-3-5-haiku-latest.md]]
 
@@ -2119,10 +2119,9 @@ Generated on: 10/1/2025, 6:17:20 PM
 
 **Evaluation Results:**
 
-| Measure | Result |
-| --- | --- |
-| AI Task: Extract all mentioned drug names | Crysvita®,Rocaltrol®,One-Alpha® |
-| Is Crysvita mentioned? | false |
-| How many specific drugs are mentioned? | 3 |
-| Out of the drugs mentioned, what position is Crysvita mentioned in? | N/A |
-
+| Measure                                                             | Result                          |
+| ------------------------------------------------------------------- | ------------------------------- |
+| AI Task: Extract all mentioned drug names                           | Crysvita®,Rocaltrol®,One-Alpha® |
+| Is Crysvita mentioned?                                              | true                            |
+| How many specific drugs are mentioned?                              | 3                               |
+| Out of the drugs mentioned, what position is Crysvita mentioned in? | 1                               |
